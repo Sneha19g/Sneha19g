@@ -23,7 +23,7 @@
 - 📫 How to reach me, You may mail me. ID: **sneha190620@gmail.com**
 
 - ⚡ Fun fact **Internet users blink less than usual.**
-- 
+
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 <h3 align="left">Connect with me:</h3>
