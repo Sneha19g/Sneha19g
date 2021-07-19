@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SNEHA GUPTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Welcome to my world!!!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha19g&label=Profile%20views&color=0e75b6&style=flat" alt="sneha19g" /> </p>
 
@@ -12,11 +12,11 @@
 <a target="_blank">
   <img align="right" height="350" width="380" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 </a>
-- 🔭 I’m currently working on **Space fight game.**
+- 🔭 I’m currently working on  **Space fight game.**
 
 - 🌱 I’m currently learning **Python, C, C++, Html, CSS.**
 
-- 👯 I’m looking to collaborate on **Python projects and Basic Web Dev stuff**
+- 👯 I’m looking to collaborate on **Python projects and Basic Web Development stuff**
 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 
@@ -38,5 +38,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha19g&show_icons=true&locale=en" alt="sneha19g" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sneha19g&show_icons=true&locale=en" alt="sneha19g" /></p>
 
